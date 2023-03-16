@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BetterReg",
+    "oncran": true
+  },
+  {
+    "package": "pwr2ppl",
+    "oncran": true
+  }
+]
