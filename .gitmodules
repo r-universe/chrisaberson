@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BetterReg"]
 	path = BetterReg
 	url = https://github.com/chrisaberson/betterreg
-	shallow = true
-	registered = true
 [submodule "pwr2ppl"]
 	path = pwr2ppl
 	url = https://github.com/chrisaberson/pwr2ppl
-	shallow = true
-	registered = true
